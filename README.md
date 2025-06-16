@@ -25,7 +25,7 @@
 
 
 
-## 🛠️ Tools & Technologies </>
+## 🛠️ Tools & Technologies
 
 <p align="left">
   <!-- Linux -->
@@ -71,12 +71,17 @@
 
 ## 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Red Hat Certified Engineer (RHCE)
-- ✅ Red Hat Certified System Administrator (RHCSA)
-  
+![red-hat-certified-engineer-rhce (4)](https://github.com/user-attachments/assets/2886f074-06fe-47ba-a429-a55916a42d3a)
+![red-hat-certified-system-administrator-rhcsa](https://github.com/user-attachments/assets/fd8da939-5113-4b2c-b421-6952b371fde7)
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/8a7585e7-5d14-4b63-aa33-6fbaa776ba0e)
 
-<h3 align="left">Connect with me:</h3>
+
+**Credly Public Profile** : https://www.credly.com/users/venkata-satya-gopala-rao-borusu
+
+
+## 🔗 Connect with me
+
+
 <p align="left">
 <a href="https://linkedin.com/in/gopala-rao-borusu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopala-rao-borusu" height="30" width="40" /></a>
 </p>
@@ -85,6 +90,10 @@
 > 🌟 _Let’s automate the boring stuff and build reliable systems together!_
 
 #############################################################
+
+
+
+
 
 <!---
 gopal-borusu/gopal-borusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
